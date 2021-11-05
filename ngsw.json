@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1636070611739,
+  "timestamp": 1636070789259,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -266,7 +266,7 @@
     "/assets/img/qr-code.svg": "a694020661b8f41d2b6a4eb4ffb98243a0cb9ab9",
     "/assets/lib/base/uikit-icons.js": "5acba89d34a7a461c8bfd8ee50468a17b9168ec3",
     "/assets/lib/base/uikit-icons.min.js": "e24633ec76743c3cefba8fe6fc7500f8fa0ce1a0",
-    "/assets/lib/base/uikit.css": "6ffa73e4b240826e3a69817fcda501ca70124abf",
+    "/assets/lib/base/uikit.css": "3e8266dadfbc4702a78f6c8822a8fe15930ec0c2",
     "/assets/lib/base/uikit.js": "c105592322d68208295e6ff8cdd3eff858984ebe",
     "/assets/lib/base/uikit.min.css": "56b007bb29e03f56b23f623b71990304f5a6ec31",
     "/assets/lib/base/uikit.min.js": "ef73359196e5311284cf1d843e31c173418f7a2c",
