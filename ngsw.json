@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1636232877185,
+  "timestamp": 1636237376877,
   "index": "https://qwahzi.github.io/NyanoWallet/index.html",
   "assetGroups": [
     {
@@ -13,8 +13,8 @@
       "urls": [
         "https://qwahzi.github.io/NyanoWallet/4d30c39b186663482e8c.worker.js",
         "https://qwahzi.github.io/NyanoWallet/index.html",
-        "https://qwahzi.github.io/NyanoWallet/main-es2015.404cd05df4fe2a1ca910.js",
-        "https://qwahzi.github.io/NyanoWallet/main-es5.404cd05df4fe2a1ca910.js",
+        "https://qwahzi.github.io/NyanoWallet/main-es2015.01b5a64b10d5e3bd661d.js",
+        "https://qwahzi.github.io/NyanoWallet/main-es5.01b5a64b10d5e3bd661d.js",
         "https://qwahzi.github.io/NyanoWallet/manifest.webmanifest",
         "https://qwahzi.github.io/NyanoWallet/polyfills-es2015.83f2efa2a89f054b5c12.js",
         "https://qwahzi.github.io/NyanoWallet/polyfills-es5.76c01e976c0bef157d11.js",
@@ -286,9 +286,9 @@
     "https://qwahzi.github.io/NyanoWallet/assets/logo_source/nault-logo.ai": "22d5d60e0e6c226c118b5faf41e90a5dcd977fed",
     "https://qwahzi.github.io/NyanoWallet/assets/logo_source/nault-logo.eps": "a2147e36015ef5497c846a0b74dfb2a4828fd2cd",
     "https://qwahzi.github.io/NyanoWallet/assets/logo_source/nault-logo.svg": "d9682092a80a1e825c646a1e7cebd8e4e9aead49",
-    "https://qwahzi.github.io/NyanoWallet/index.html": "213edc5db55d038ab318535dfac1afddb6a41264",
-    "https://qwahzi.github.io/NyanoWallet/main-es2015.404cd05df4fe2a1ca910.js": "0cda114b052b957276e145c0b897b6dbaa46eb2b",
-    "https://qwahzi.github.io/NyanoWallet/main-es5.404cd05df4fe2a1ca910.js": "100e5bb76118f31e75b942b8530ba211fc58d081",
+    "https://qwahzi.github.io/NyanoWallet/index.html": "a2d017371dfe72e6b4ac8498fd0ce093c7bcaba5",
+    "https://qwahzi.github.io/NyanoWallet/main-es2015.01b5a64b10d5e3bd661d.js": "40c4a5c0a29eb1247bfba88a85aa82ea63e97d4a",
+    "https://qwahzi.github.io/NyanoWallet/main-es5.01b5a64b10d5e3bd661d.js": "0d5d389d5f91f3a0ede73c1c08d6a069bb18ce0b",
     "https://qwahzi.github.io/NyanoWallet/manifest.webmanifest": "8a1f5a1282be412f923591b653aea26c509af1ef",
     "https://qwahzi.github.io/NyanoWallet/montserrat-v15-latin-300.00b3e893aab5a8fd632d.woff2": "cf6855b4b8fd9b7fc4d7adecd97080a70ad75c23",
     "https://qwahzi.github.io/NyanoWallet/montserrat-v15-latin-300.0c3783781c48cfcea845.svg": "3b19cf1b5993dc957823374160cf69755191d0a5",
