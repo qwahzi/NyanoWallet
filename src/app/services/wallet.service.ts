@@ -85,7 +85,7 @@ export interface WalletApiAccount extends BaseApiAccount {
 export class WalletService {
   nano = 1000000000000000000;
   rawrCutoffAmount = 1000000000000000000000000; // Setting "nano" unit to 10^24, representing nyano as the base unit
-  
+
   storeKey = `nanovault-wallet`;
 
   wallet: FullWallet = {
@@ -386,7 +386,7 @@ export class WalletService {
     const exportData = this.generateExportData();
     const base64Data = btoa(JSON.stringify(exportData));
 
-    return `https://nyanowallet.thomiz.dev/import-wallet#${base64Data}`;
+    return `https://nyanowallet.com/import-wallet#${base64Data}`;
   }
 
   lockWallet() {
